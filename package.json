@@ -1,0 +1,22 @@
+{
+  "name": "chocolate_club",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch --update --style=compressed css:css",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DesignByVang/ChocolateClub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DesignByVang/ChocolateClub/issues"
+  },
+  "homepage": "https://github.com/DesignByVang/ChocolateClub#readme",
+  "devDependencies": {
+    "sass": "^1.52.1"
+  }
+}
