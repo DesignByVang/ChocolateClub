@@ -28,6 +28,7 @@
 <body>
 
 <!-- Her skal sidens indhold ligge -->
+<h1>Hej Bois</h1>
 
 </body>
 </html><?php
