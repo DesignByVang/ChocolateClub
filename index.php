@@ -28,7 +28,7 @@
 <body>
 <p> tissemand</p>
 <!-- Her skal sidens indhold ligge -->
-<h1>Hej Bois</h1>
+<h1>Hej Bois kæmpe hånd</h1>
 
 </body>
 </html><?php
