@@ -2,4 +2,10 @@
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 
+$custom-colors: (
+    "primary": #86afba,
+    "logoColor": #f0d090,
+);
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
 @import "../node_modules/bootstrap/scss/bootstrap";
