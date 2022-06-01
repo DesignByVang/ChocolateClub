@@ -66,7 +66,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="images/closeup_chocolate.jpg" class="d-block w-100" alt="...">
+                <img src="images/choccy.png" class="d-block w-100" alt="...">
 
                 <div class="container">
                     <div class="carousel-caption text-start">
@@ -77,7 +77,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/closeup_chocolate.jpg" class="d-block w-100" alt="...">
+                <img src="images/choccy.png" class="d-block w-100" alt="...">
                 <div class="container">
                     <div class="carousel-caption">
                         <h1>Another example headline.</h1>
@@ -87,7 +87,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/closeup_chocolate.jpg" class="d-block w-100" alt="...">
+                <img src="images/choccy.png" class="d-block w-100" alt="...">
                 <div class="container">
                     <div class="carousel-caption text-end">
                         <h1>One more for good measure.</h1>
