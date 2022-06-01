@@ -18,6 +18,7 @@
     <meta name="copyright" content="Information om copyright">
 
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
+    <link href="css/bootstrap.css.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
 
     <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
@@ -26,9 +27,9 @@
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
-<p> tissemand</p>
-<!-- Her skal sidens indhold ligge -->
-<h1>Hej Bois kæmpe hånd</h1>
 
+    <div class="bg-primary">test</div>
+
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html><?php
