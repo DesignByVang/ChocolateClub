@@ -95,7 +95,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container-fluid">
         <ul class="navbar-nav mx-auto">
-            <a class="navbar-brand d-lg-none" href="#">
+            <a class="navbar-brand d-lg-none" href="index.php">
                 <img src="images/logo_lille.png"></ul>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
