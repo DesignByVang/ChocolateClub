@@ -56,43 +56,86 @@
             fill: currentColor;
         }
 
-        .nav-scroller {
-            position: relative;
-            z-index: 2;
-            height: 2.75rem;
-            overflow-y: hidden;
+        .navbar .navbar-nav .nav-link {
+            color: #000000;
+            font-size: 1.1em;
+        }
+        .navbar .navbar-nav .nav-link:hover{
+            color: #808080;
+        }
+        .navbar-logo-centered .navbar-nav .nav-link{
+            padding: .5em 1em;
         }
 
-        .nav-scroller .nav {
-            display: flex;
-            flex-wrap: nowrap;
-            padding-bottom: 1rem;
-            margin-top: -1px;
-            overflow-x: auto;
-            text-align: center;
-            white-space: nowrap;
-            -webkit-overflow-scrolling: touch;
+        .navbar-brand img{
+            width: 70px;
         }
+        .navbar-brand{
+            margin-right: 0;
+        }
+        .navbar-nav{
+            align-items: center;
+        }
+        .navbar .navbar-nav .nav-link{
+            color: black;
+            font-size: 1.1em;
+            padding: 20px;
+        }
+    @media screen and (max-width: 992px) {
+        .navbar-brand{
+
+        }
+}
     </style>
 
 
 </head>
 <body>
 
-<header>
-
-   
-</header>
-
-<main>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container-fluid">
+        <ul class="navbar-nav mx-auto">
+        <a class="navbar-brand d-lg-none" href="#">
+            <img src="images/logo_lille.png"></ul>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mx-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="produkter.php">Produkter</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="butikken.php">Butikken</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Events</a>
+                </li>
+                <a class="navbar-brand d-none d-lg-block" href="index.php">
+                    <img src="images/logo_lille.png">
+                </a>
+                <li class="nav-item">
+                    <a class="nav-link" href="omos.php">Om Os</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="gavekort.php">Gavekort</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Kurv</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
 
     <section class="py-5 text-center container">
         <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
-                <h1 class="fw-light">Album example</h1>
-                <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don’t simply skip over it entirely.</p>
+                <h1 class="fw-light">Chocolate Club Events</h1>
+                <p class="lead text-muted">her vil du have muligheden for at se eller læse om og booke events til alle former for selvskaber</p>
                 <p>
-                    <a href="#" class="btn btn-primary my-2">Main call to action</a>
+                    <a href="#" class="btn btn-primary my-2">Kontakt</a>
                     <a href="#" class="btn btn-secondary my-2">Secondary action</a>
                 </p>
             </div>
@@ -253,7 +296,6 @@
         </div>
     </div>
 
-</main>
 
 <footer class="text-muted py-5">
     <div class="container">
