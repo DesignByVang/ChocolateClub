@@ -34,22 +34,22 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="produkter.php">Produkter</a>
+                    <a class="nav-link" href="#">Produkter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="butikken.php">Butikken</a>
+                    <a class="nav-link" href="#">Butikken</a>
                 </li>
                 <li class="nav-item me-3">
-                    <a class="nav-link" href="evnets.php">Events</a>
+                    <a class="nav-link" href="#">Events</a>
                 </li>
-                <a class="navbar-brand d-none d-lg-block" href="#">
+                <a class="navbar-brand d-none d-lg-block" href="index.php">
                     <img src="images/logo_lille.png">
                 </a>
                 <li class="nav-item">
-                    <a class="nav-link" href="omos.php">Om Os</a>
+                    <a class="nav-link" href="#">Om Os</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="gavekort.php">Gavekort</a>
+                    <a class="nav-link" href="#">Gavekort</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Kurv</a>
