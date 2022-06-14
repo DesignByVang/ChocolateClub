@@ -61,8 +61,9 @@
     </div>
 </nav>
 
+<!-- hero-->
 <div class="hero container-expand-lg">
-    <img src="images/chokoladebarer.jpg" alt="chokoladebar" class="herobillede">
+    <img src="images/chokoladebarer-halv.png" alt="chokoladebar" class="herobillede">
     <div class="row">
         <div class="col-6 mx-auto gap-2 d-grid">
             <div class="row justify-content-center">
@@ -84,7 +85,8 @@
     </div>
 </div>
 
-<div class="container marketing text-center">
+<!-- Chocolatiers -->
+<div class="container text-center mt-5">
     <div class="row">
         <div class="col-lg-4 mt-3">
             <img class="rounded-circle mx-auto" width="140" height="140" src="images/Tobias Trads.png" alt="Tobias Trads">
@@ -107,7 +109,8 @@
     </div>
 </div>
 
-<footer class="text-center text-white bg-primary">
+<!-- footer-->
+<footer class="text-center text-white bg-primary" style="margin-top: 6rem;">
     <div class="container pt-4">
         <section class="mb-4">
             <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
