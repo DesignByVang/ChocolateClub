@@ -43,7 +43,7 @@
                     <a class="nav-link" href="#">Events</a>
                 </li>
                 <a class="navbar-brand d-none d-lg-block" href="index.php">
-                    <img src="images/logo_lille.png">
+                    <img src="images/logo_lille.png" alt="logo">
                 </a>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Om Os</a>
@@ -111,11 +111,11 @@
 <footer class="text-center text-white bg-primary" style="margin-top: 3rem;">
     <div class="container pt-4">
         <section class="mb-4">
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fa-brands fa-tiktok text-light fa-2x"></i></a>
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fab fa-instagram text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fa-brands fa-tiktok text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fab fa-instagram text-light fa-2x"></i></a>
             <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="mailto:chococlub@mail.dk" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-envelope text-light fa-2x"></i></a>
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-location-dot text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-location-dot text-light fa-2x"></i></a>
         </section>
     </div>
     <div class="text-center text-light p-3" style="background-color: rgba(0, 0, 0, 0.2);">
