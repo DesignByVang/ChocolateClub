@@ -60,6 +60,28 @@
     </div>
 </nav>
 
+<div class="container-fluid">
+    <div class="row">
+        <div class="col">
+            <h2>Oops! Denne side findes ikke.</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <h4>Du har fundet en som ikke er færdig</h4>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <h4>Lad os få dig tilbage til dem, som virker!</h4>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="images/404smiley.png" alt="fejlbillede">
+        </div>
+    </div>
+</div>
 
 <!-- footer-->
 <footer class="text-center text-white bg-primary" style="margin-top: 3rem;">
