@@ -79,8 +79,10 @@ img{
 .navbar-brand img{
   height: 70px;
 }
-.toplogo{
-  height: 70px;
+
+.toplogo {
+  left: 50%;
+
 }
 .navbar-nav{
   align-items: center;
@@ -140,4 +142,8 @@ img{
   .info, .info2 {
     font-size: 0.7rem;
   }
+}
+
+.event {
+  font-weight: 300;
 }
