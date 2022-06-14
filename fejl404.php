@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="Seb, Emil og Mads">
     <meta name="generator" content="Hugo 0.98.0">
-    <title>Chocolate Club - Forside</title>
+    <title>Chocolate Club - Fejlside</title>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/album/">
