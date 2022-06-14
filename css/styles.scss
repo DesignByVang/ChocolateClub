@@ -87,7 +87,7 @@ img{
   position: absolute;
   text-align: center;
   cursor: pointer;
-  top: 35%;
+  top: 40%;
   left: 15%;
   transform: translate (-50%,-50%);
   -ms-transform: translate (-50%,-50%);
@@ -96,20 +96,12 @@ img{
 .hero .info2 {
   position: absolute;
   cursor: pointer;
-  top: 40%;
+  top: 50%;
   left: 15%;
   transform: translate (-50%,-50%);
   -ms-transform: translate (-50%,-50%);
 }
-/*
-@media screen and (min-width: 993px){
- .herobillede {
-   position: absolute !important;
-   top: -9999px !important;
-   left: -9999px !important;
- }
-}
-*/
+
 @media screen and (max-width: 992px){
   .velkomst {
     font-size: calc(1.15rem + 1.0vw);
