@@ -21,7 +21,6 @@
     <script src="https://kit.fontawesome.com/d1cff074d0.js" crossorigin="anonymous"></script>
 </head>
 <body>
-
 <!-- Navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container-fluid">
@@ -101,7 +100,10 @@
         <div class="col-lg-4 mt-3">
             <img class="rounded-circle mx-auto" width="140" height="140" src="images/Frederik Wolmar.png" alt="Frederik Wolmar">
             <h2 class="fw-normal mt-1">Frederik</h2>
-            <p>And lastly this, the third column of representative placeholder content.</p>
+            <p>Frederik er højt uddannet inden for
+                chokolade creation. Han udnytter sin
+                kreative side til at skabe fantastiske figurer
+                som passer perfekt til enhver fejring.</p>
             <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
         </div>
     </div>

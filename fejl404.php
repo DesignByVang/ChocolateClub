@@ -67,12 +67,12 @@
     </div>
     <div class="row">
         <div class="col">
-            <h4>LOREM IPSUM</h4>
+            <h4>Det ser ud til at du siden ikke er helt størknet og klar til brug endnu!</h4>
         </div>
     </div>
     <div class="row">
         <div class="col">
-            <h4>LOREM IPSUM</h4>
+            <h4>Vi må hellere få dig tilbage på det rette spor :)</h4>
         </div>
     </div>
     <div class="row">
