@@ -83,7 +83,7 @@
 </div>
 
 <!-- footer-->
-<footer class="text-center text-white bg-primary" style="margin-top: 4rem;">
+<footer class="text-center text-white bg-primary" style="margin-top: 5rem;">
     <div class="container pt-4">
         <section class="mb-4">
             <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
