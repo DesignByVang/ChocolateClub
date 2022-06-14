@@ -25,9 +25,10 @@
 </head>
 <body>
 
+<!-- Navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container-fluid">
-        <a href="index.php" class="navbar-brand d-lg-none toplogo mx-auto">
+        <a href="index.php" class="navbar-brand d-lg-none toplogo" style="margin-left: 48%;">
             <img src="images/logo_lille.png" alt="chocolate club logo">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,7 +42,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="butikken.php">Butikken</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item me-3">
                     <a class="nav-link" href="evnets.php">Events</a>
                 </li>
                 <a class="navbar-brand d-none d-lg-block" href="#">
