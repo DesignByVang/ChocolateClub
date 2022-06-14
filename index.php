@@ -88,13 +88,17 @@
         <div class="col-lg-4 mt-3">
             <img class="rounded-circle mx-auto" width="140" height="140" src="images/Tobias Trads.png" alt="Tobias Trads">
             <h2 class="fw-normal mt-1">Tobias</h2>
-            <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+            <p>Tobias er allerede en anderkendt chocolatier, med hans vilde ideér for chokolader til børn og barnlige sjæle.
+                Det er med Chocolatieruddannelsen bag sig, at Tobias har formet sin stig for,
+                at fornøje familier med sjov og kvalitet på samme tid.</p>
             <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
         </div>
         <div class="col-lg-4 mt-3">
             <img class="rounded-circle mx-auto" width="140" height="140" src="images/Amalie Mikkelsen.png" alt="Amalie Mikkelsen">
             <h2 class="fw-normal mt-1">Amalie</h2>
-            <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
+            <p>Vores egen chokolade dronning, har rejst rundt til forskellige lande,
+                for at lære om andre kultures kunskaber indenfor chokolade, og har en stærk uddanelse bag sig.
+                Hun vil dele ud af sine oplevelser gennem chokolade til danskerne. </p>
             <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
         </div>
         <div class="col-lg-4 mt-3">
