@@ -90,27 +90,27 @@
     <div class="row">
         <div class="col-lg-4 mt-3">
             <img class="rounded-circle mx-auto" width="140" height="140" src="images/Tobias Trads.png" alt="Tobias Trads">
-            <h2 class="fw-normal mt-1">Tobias</h2><!--
-            <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>-->
+            <h2 class="fw-normal mt-1">Tobias</h2>
+            <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
             <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
         </div>
         <div class="col-lg-4 mt-3">
             <img class="rounded-circle mx-auto" width="140" height="140" src="images/Amalie Mikkelsen.png" alt="Amalie Mikkelsen">
-            <h2 class="fw-normal mt-1">Amalie</h2><!--
-            <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>-->
+            <h2 class="fw-normal mt-1">Amalie</h2>
+            <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
             <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
         </div>
         <div class="col-lg-4 mt-3">
             <img class="rounded-circle mx-auto" width="140" height="140" src="images/Frederik Wolmar.png" alt="Frederik Wolmar">
-            <h2 class="fw-normal mt-1">Frederik</h2><!--
-            <p>And lastly this, the third column of representative placeholder content.</p>-->
+            <h2 class="fw-normal mt-1">Frederik</h2>
+            <p>And lastly this, the third column of representative placeholder content.</p>
             <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
         </div>
     </div>
 </div>
 
 <!-- footer-->
-<footer class="text-center text-white bg-primary" style="margin-top: 6rem;">
+<footer class="text-center text-white bg-primary" style="margin-top: 3rem;">
     <div class="container pt-4">
         <section class="mb-4">
             <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
