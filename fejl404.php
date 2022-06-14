@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <html lang="da">
@@ -60,31 +59,31 @@
     </div>
 </nav>
 
-<div class="container-fluid">
+<div class="container-fluid text-center">
     <div class="row">
-        <div class="col">
+        <div class="col oops">
             <h2>Oops! Denne side findes ikke.</h2>
         </div>
     </div>
     <div class="row">
         <div class="col">
-            <h4>Du har fundet en som ikke er færdig</h4>
+            <h4>LOREM IPSUM</h4>
         </div>
     </div>
     <div class="row">
         <div class="col">
-            <h4>Lad os få dig tilbage til dem, som virker!</h4>
+            <h4>LOREM IPSUM</h4>
         </div>
     </div>
     <div class="row">
-        <div class="col">
-            <img src="images/404smiley.png" alt="fejlbillede">
+        <div class="col mt-5">
+            <img class="fejlbillede mx-auto" src="images/404smiley.png" alt="fejlbillede">
         </div>
     </div>
 </div>
 
 <!-- footer-->
-<footer class="text-center text-white bg-primary" style="margin-top: 3rem;">
+<footer class="text-center text-white bg-primary" style="margin-top: 4rem;">
     <div class="container pt-4">
         <section class="mb-4">
             <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
