@@ -155,3 +155,12 @@ img{
 a {
   text-decoration: none;
 }
+
+.btn-floating,
+.btn-floating:focus,
+.btn-floating:active,
+.btn-floating:visited {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}

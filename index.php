@@ -21,6 +21,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="images/logo_lille.png" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/d1cff074d0.js" crossorigin="anonymous"></script>
 </head>
 <body>
 
@@ -83,8 +84,6 @@
     </div>
 </div>
 
-
-
 <div class="container marketing text-center">
     <div class="row">
         <div class="col-lg-4 mt-3">
@@ -106,12 +105,23 @@
             <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
         </div>
     </div>
+</div>
 
-<footer class="container mt-5 bg-primary text-muted footer">
-        <address class="text-light">E-mail: <a class="text-light" href="mailto:chococlub@mail.dk">chococlub@mail.dk</a>
-        </address>
-    <p class="text-light">&copy;2022 Chocolate Club. <a href="#">Privacy</a><a href="#">Terms</a></p>
+<footer class="text-center text-white bg-primary">
+    <div class="container pt-4">
+        <section class="mb-4">
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fa-brands fa-tiktok text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fab fa-instagram text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="mailto:chococlub@mail.dk" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-envelope text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#!" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-location-dot text-light fa-2x"></i></a>
+        </section>
+    </div>
+    <div class="text-center text-light p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        © 2022 Copyright: Chocolate Club.
+    </div>
 </footer>
+
 
     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
