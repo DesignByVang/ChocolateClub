@@ -1,10 +1,7 @@
-<!-- Instruktion til webbrowser om at vi kører HTML5 -->
 <!DOCTYPE html>
 
-<!-- html starter og slutter hele dokumentet / lang=da: Fortæller siden er på dansk -->
 <html lang="da">
 
-<!-- I <head> har man opsætning - det ser brugeren ikke, men det fortæller noget om siden -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
