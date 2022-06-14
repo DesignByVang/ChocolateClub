@@ -9,20 +9,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="author" content="Seb, Emil og Mads">
     <meta name="generator" content="Hugo 0.98.0">
-    <title>Album example · Bootstrap v5.2</title>
-
+    <title>Chocolate Club - Forside</title>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+    <link href="css/styles.css" rel="stylesheet" type="text/css"/>
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/album/">
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="css/styles.css" rel="stylesheet" type="text/css">
-
-
-
-
-    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
-
-
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="images/logo_lille.png" type="image/x-icon">
 </head>
 <body>
 
@@ -30,8 +28,9 @@
     <div class="container-fluid">
         <ul class="navbar-nav mx-auto">
             <a class="navbar-brand d-lg-none" href="index.php">
-                <img src="images/logo_lille.png"></ul>
-        </a>
+                <img src="images/logo_lille.png">
+            </a>
+        </ul>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -63,61 +62,17 @@
     </div>
 </nav>
 
-<main>
-
-    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-indicators">
-            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-        </div>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="images/choccy.png" class="d-block w-100" alt="...">
-
-                <div class="container">
-                    <div class="carousel-caption text-start">
-                        <h1>Example headline.</h1>
-                        <p>Some representative placeholder content for the first slide of the carousel.</p>
-                        <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="images/choccy.png" class="d-block w-100" alt="...">
-                <div class="container">
-                    <div class="carousel-caption">
-                        <h1>Another example headline.</h1>
-                        <p>Some representative placeholder content for the second slide of the carousel.</p>
-                        <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="images/choccy.png" class="d-block w-100" alt="...">
-                <div class="container">
-                    <div class="carousel-caption text-end">
-                        <h1>One more for good measure.</h1>
-                        <p>Some representative placeholder content for the third slide of this carousel.</p>
-                        <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button>
+<div class="hero container-fluid">
+    <img src="images/chokoladebarer.jpg" alt="chokoladebar" class="herobillede">
+    <div>
+        <p>Velkommen!</p>
     </div>
+    <div>
+        <p>Chocolate Club er et nyopstartet chokoladekollektiv, med det formål at danskerne nemt kan få verdensklasse chokolade til hvert et formål</p>
+    </div>
+</div>
 
 
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
 
@@ -200,7 +155,7 @@
         <p class="float-end"><a href="#">Back to top</a></p>
         <p>&copy; 2017–2022 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
     </footer>
-</main>
+
     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html><?php
