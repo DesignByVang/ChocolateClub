@@ -62,13 +62,26 @@
     </div>
 </nav>
 
-<div class="hero container-fluid">
+<div class="hero container-expand-lg">
     <img src="images/chokoladebarer.jpg" alt="chokoladebar" class="herobillede">
-    <div>
-        <p>Velkommen!</p>
+    <div class="row">
+        <div class="col-6 mx-auto gap-2 d-grid">
+            <div class="row justify-content-center">
+                <div class="col">
+                    <h1 class="velkomst text-light">Velkommen!</h1>
+                </div>
+            </div>
+        </div>
     </div>
-    <div>
-        <p>Chocolate Club er et nyopstartet chokoladekollektiv, med det formål at danskerne nemt kan få verdensklasse chokolade til hvert et formål</p>
+    <div class="row">
+        <div class="col-6 mx-auto gap-2 d-grid">
+            <div class="row justify-content-center">
+                <div class="col">
+                    <h6 class="info text-light">Chocolate Club er et nyopstartet chokoladekollektiv</h6>
+                    <h6 class="info2 text-light">med det formål at danskerne nemt kan få verdensklasse chokolade til hvert et formål</h6>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 

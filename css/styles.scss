@@ -95,12 +95,49 @@ img{
 .herobillede {
   width: 100%;
   opacity: 60%;
-  height: 80%;
+  filter: brightness(60%);
 }
 
 .hero {
-  border: black;
   margin: 0;
   padding: 0;
   position: relative;
+}
+
+.hero .velkomst,  {
+  position: absolute;
+  text-align: center;
+  cursor: pointer;
+  top: 20%;
+  left: 20%;
+  transform: translate (-50%,-50%);
+  -ms-transform: translate (-50%,-50%);
+}
+
+.hero .info {
+  position: absolute;
+  text-align: center;
+  cursor: pointer;
+  top: 35%;
+  left: 15%;
+  transform: translate (-50%,-50%);
+  -ms-transform: translate (-50%,-50%);
+}
+
+.hero .info2 {
+  position: absolute;
+  cursor: pointer;
+  top: 40%;
+  left: 15%;
+  transform: translate (-50%,-50%);
+  -ms-transform: translate (-50%,-50%);
+}
+
+@media screen and (max-width: 992px){
+  .velkomst {
+    font-size: calc(1.15rem + 1.0vw);
+  }
+  .info, .info2 {
+    font-size: 0.7rem;
+  }
 }
