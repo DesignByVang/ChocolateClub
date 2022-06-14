@@ -33,25 +33,25 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Produkter</a>
+                    <a class="nav-link" href="fejl404.php">Produkter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Butikken</a>
+                    <a class="nav-link" href="fejl404.php">Butikken</a>
                 </li>
                 <li class="nav-item me-3">
-                    <a class="nav-link" href="#">Events</a>
+                    <a class="nav-link" href="fejl404.php">Events</a>
                 </li>
                 <a class="navbar-brand d-none d-lg-block" href="index.php">
                     <img src="images/logo_lille.png" alt="logo">
                 </a>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Om Os</a>
+                    <a class="nav-link" href="fejl404.php">Om Os</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Gavekort</a>
+                    <a class="nav-link" href="fejl404.php">Gavekort</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Kurv</a>
+                    <a class="nav-link" href="fejl404.php">Kurv</a>
                 </li>
             </ul>
         </div>
@@ -91,7 +91,7 @@
             <p>Tobias er allerede en anderkendt chocolatier, med hans vilde ideér for chokolader til børn og barnlige sjæle.
                 Det er med Chocolatieruddannelsen bag sig, at Tobias har formet sin stig for,
                 at fornøje familier med sjov og kvalitet på samme tid.</p>
-            <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
+            <p><a class="btn btn-primary mt-1 text-light" href="fejl404.php">Læs mere &raquo;</a></p>
         </div>
         <div class="col-lg-4 mt-3">
             <img class="rounded-circle mx-auto" width="140" height="140" src="images/Amalie Mikkelsen.png" alt="Amalie Mikkelsen">
@@ -99,7 +99,7 @@
             <p>Vores egen chokolade dronning, har rejst rundt til forskellige lande,
                 for at lære om andre kultures kunskaber indenfor chokolade, og har en stærk uddanelse bag sig.
                 Hun vil dele ud af sine oplevelser gennem chokolade til danskerne. </p>
-            <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
+            <p><a class="btn btn-primary mt-1 text-light" href="fejl404.php">Læs mere &raquo;</a></p>
         </div>
         <div class="col-lg-4 mt-3">
             <img class="rounded-circle mx-auto" width="140" height="140" src="images/Frederik Wolmar.png" alt="Frederik Wolmar">
@@ -108,7 +108,7 @@
                 chokolade creation. Han udnytter sin
                 kreative side til at skabe fantastiske figurer
                 som passer perfekt til enhver fejring.</p>
-            <p><a class="btn btn-primary mt-1 text-light" href="#">Læs mere &raquo;</a></p>
+            <p><a class="btn btn-primary mt-1 text-light" href="fejl404.php">Læs mere &raquo;</a></p>
         </div>
     </div>
 </div>
@@ -117,11 +117,11 @@
 <footer class="text-center text-white bg-primary" style="margin-top: 3rem;">
     <div class="container pt-4">
         <section class="mb-4">
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fa-brands fa-tiktok text-light fa-2x"></i></a>
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fab fa-instagram text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="fejl404.php" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="fejl404.php" role="button" data-mdb-ripple-color="dark"><i class="fa-brands fa-tiktok text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="fejl404.php" role="button" data-mdb-ripple-color="dark"><i class="fab fa-instagram text-light fa-2x"></i></a>
             <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="mailto:chococlub@mail.dk" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-envelope text-light fa-2x"></i></a>
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-location-dot text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="fejl404.php" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-location-dot text-light fa-2x"></i></a>
         </section>
     </div>
     <div class="text-center text-light p-3" style="background-color: rgba(0, 0, 0, 0.2);">

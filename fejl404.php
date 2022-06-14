@@ -9,8 +9,8 @@
     <meta name="author" content="Seb, Emil og Mads">
     <meta name="generator" content="Hugo 0.98.0">
     <title>Chocolate Club - Forside</title>
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
-    <link href="css/styles.css" rel="stylesheet" type="text/css"/>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/album/">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -34,25 +34,25 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Produkter</a>
+                    <a class="nav-link" href="fejl404.php">Produkter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Butikken</a>
+                    <a class="nav-link" href="fejl404.php">Butikken</a>
                 </li>
                 <li class="nav-item me-3">
-                    <a class="nav-link" href="#">Events</a>
+                    <a class="nav-link" href="fejl404.php">Events</a>
                 </li>
                 <a class="navbar-brand d-none d-lg-block" href="index.php">
                     <img src="images/logo_lille.png" alt="logo">
                 </a>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Om Os</a>
+                    <a class="nav-link" href="fejl404.php">Om Os</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Gavekort</a>
+                    <a class="nav-link" href="fejl404.php">Gavekort</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Kurv</a>
+                    <a class="nav-link" href="fejl404.php">Kurv</a>
                 </li>
             </ul>
         </div>
@@ -86,11 +86,11 @@
 <footer class="text-center text-white bg-primary" style="margin-top: 5rem;">
     <div class="container pt-4">
         <section class="mb-4">
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fa-brands fa-tiktok text-light fa-2x"></i></a>
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fab fa-instagram text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="fejl404.php" role="button" data-mdb-ripple-color="dark"><i class="fab fa-facebook-f text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="fejl404.php" role="button" data-mdb-ripple-color="dark"><i class="fa-brands fa-tiktok text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="fejl404.php" role="button" data-mdb-ripple-color="dark"><i class="fab fa-instagram text-light fa-2x"></i></a>
             <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="mailto:chococlub@mail.dk" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-envelope text-light fa-2x"></i></a>
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-location-dot text-light fa-2x"></i></a>
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="fejl404.php" role="button" data-mdb-ripple-color="dark"><i class="fa-solid fa-location-dot text-light fa-2x"></i></a>
         </section>
     </div>
     <div class="text-center text-light p-3" style="background-color: rgba(0, 0, 0, 0.2);">
